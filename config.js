@@ -3,6 +3,6 @@
 */
 
 //黑名单前缀...?test1
-let pre_blacklist = ["admin","master", "info", "mail", "webadmin", "webmaster", "noreply", "system", "postmaster"]
+let pre_blacklist = ["admin","master","user", "info", "mail", "webadmin", "webmaster", "noreply", "system", "postmaster"]
 
 module.exports = {pre_blacklist:pre_blacklist}
