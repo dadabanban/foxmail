@@ -4,5 +4,5 @@
 
 //黑名单前缀...?test1
 let pre_blacklist = ["admin","master","user", "info", "mail", "webadmin", "webmaster", "noreply", "system", "postmaster"]
-//修改后缀名a
+//修改后缀名abc
 module.exports = {pre_blacklist:pre_blacklist}
